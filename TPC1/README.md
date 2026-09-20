@@ -28,6 +28,9 @@ O Trabalho para casa da primeira aula teórico-prática consiste na resolução 
 
 
 
-Lista de Resultados: Nível 10 MAZE:https://blockly.games/maze?lang=pt&level=10&&skin=0#hjqd93               Nível 10 TURTLE:https://blockly.games/turtle?lang=pt&level=10#g2zhzx
+Lista de Resultados:
+
+Nível 10 MAZE:https://blockly.games/maze?lang=pt&level=10&&skin=0#hjqd93              
+Nível 10 TURTLE:https://blockly.games/turtle?lang=pt&level=10#g2zhzx
 
 
