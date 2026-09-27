@@ -5,10 +5,14 @@ Nome: Dinis da Silva Oliveira ID: a113295
 
 Foto:
 
-IMG_9919 (1)
-Resumo: O Trabalho para casa da primeira aula teórico-prática consiste na resolução do nível 10 do "blocky games", que se trata de uma programação simples tipo "scratch".Este desafio consiste em programar o caminho para chegar de um ponto A até um ponto B. Além disso, foi pedido um desenho de um barco à vela com ondas, sol e nuvens no mesmo desenho utilizando a função "turtle" do blockly games
+<img width="240" height="320" alt="IMG_9919 (1)" src="https://github.com/user-attachments/assets/dd5f6dde-fa9c-4a8e-8c98-4bfd565d73bb" />
+
+Resumo: O Trabalho para casa da segunda aula teórico-prática consiste na criação do um programa em python de um jogo chamado de "Adivinha o número".O jogo tem duas variantes, podendo ser o utilizador a pensar no número e o computador adivinhar o número ou o computador pensar e o utilizador adivinhar o número.
+Neste trabalho foram precisas várias funções como: while true, if, elif, else, e a nova função: random
 
 Lista de Resultados:
 
-Nível 10 MAZE:https://blockly.games/maze?lang=pt&level=10&&skin=0#hjqd93
-Nível 10 TURTLE:https://blockly.games/turtle?lang=pt&level=10#g2zhzx
+
+
+
+
