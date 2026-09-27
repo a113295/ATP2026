@@ -1,1 +1,14 @@
 
+Título: Trabalho de casa 1
+
+Nome: Dinis da Silva Oliveira ID: a113295
+
+Foto:
+
+IMG_9919 (1)
+Resumo: O Trabalho para casa da primeira aula teórico-prática consiste na resolução do nível 10 do "blocky games", que se trata de uma programação simples tipo "scratch".Este desafio consiste em programar o caminho para chegar de um ponto A até um ponto B. Além disso, foi pedido um desenho de um barco à vela com ondas, sol e nuvens no mesmo desenho utilizando a função "turtle" do blockly games
+
+Lista de Resultados:
+
+Nível 10 MAZE:https://blockly.games/maze?lang=pt&level=10&&skin=0#hjqd93
+Nível 10 TURTLE:https://blockly.games/turtle?lang=pt&level=10#g2zhzx
