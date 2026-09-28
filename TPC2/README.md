@@ -13,7 +13,7 @@ Neste trabalho foram precisas várias funções como: while true, if, elif, else
 Lista de Resultados:
 
 
-{JOGO}(main.py)
+[JOGO](main.py)
 
 
 
