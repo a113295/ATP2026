@@ -13,6 +13,32 @@ Neste trabalho foram precisas várias funções como: while true, if, elif, else
 Lista de Resultados:
 
 
-https://github.com/a113295/Jogo-Adivinha-o-n-mero--ltima-vers-o
+{JOGO}(main.py)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
