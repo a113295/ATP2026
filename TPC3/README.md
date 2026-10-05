@@ -25,6 +25,6 @@ O jogo tem 2 modalidades de jogo:
 
 Lista de resultados
 
-{Código do jogo}
+[Código do jogo](TPC3.PY)
 
 
