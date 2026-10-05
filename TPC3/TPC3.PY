@@ -58,7 +58,7 @@ def jogar_computador_segundo():
             print("Parabéns! Venceu o jogo.")
             break
             
-        # Jogada do Computador (Tenta apanhar o oponente se ele falhar a estratégia, senão joga aleatório/defesa)
+        # Jogada do Computador (Tenta apanhar o oponente se ele falhar a estratégia, senão joga aleatório)
         # O objetivo do computador é tentar alcançar um múltiplo de 11
         resto = total % 11
         if resto == 0:
