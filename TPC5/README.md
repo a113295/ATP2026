@@ -15,5 +15,5 @@ Foto:
 
 resumo:Este projeto consiste numa aplicação de terminal em Python desenvolvida no âmbito da disciplina ATP. O sistema permite a gestão completa de turmas (inserção, consulta e listagem de alunos) e o armazenamento dos dados em ficheiros de texto
 
-[Código do tpc](TPC5.py)
+[Código do tpc](TPC5.PY)
 
