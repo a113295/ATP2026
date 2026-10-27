@@ -15,4 +15,4 @@ Foto:
 
 resumo:Este projeto consiste numa aplicação de terminal em Python desenvolvida no âmbito da disciplina ATP. O sistema permite a gestão completa de dados meterologicos seja num fichiro já feito ou a com dados novos 
 
-[Código do tpc](TPC6.PY)
+[Código do tpc](TPC6.py)
